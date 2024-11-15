@@ -1,2 +1,4 @@
 # first
-this is my first time 
+this is my first repo
+<br>
+and here i update the repo
